@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naa Norkor</h1>
-<h3 align="center">A full-stack software engineer + finance analyst</h3>
+<h3 align="center">A full-stack software engineer</h3>
 
 - 🔭 I’m currently working on [Foodease](https://github.com/snaanortey/foodease)
 
